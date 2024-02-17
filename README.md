@@ -6,12 +6,12 @@ This repository contains two projects:
 1. **AddressBook Project:**
 
 
-   AddressBook is a web application designed for managing contacts and groups efficiently. With AddressBook, users can create, edit, and organize contacts seamlessly.
+   AddressBook is a web application designed for creating and managing contacts and groups.
 
 2. **Mantis Bug Tracking System:**
 
 
-   Mantis is an open-source bug tracking system that facilitates efficient issue tracking and project management. It offers a centralized platform for reporting, tracking, and resolving bugs and issues throughout the development lifecycle.
+   Mantis is an open-source bug tracking system.
 ## Work Summary:
 
 ### AddressBook Project:
