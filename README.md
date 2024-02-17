@@ -14,8 +14,10 @@ This repository contains two projects:
    Mantis is an open-source bug tracking system.
 ## Work Summary:
 
-### AddressBook Project:
+1. **AddressBook Project:**
+
 In the AddressBook project, we focused on comprehensive UI testing and extensive interaction with the database.
 
-### Mantis Bug Tracking System:
+2. **Mantis Bug Tracking System:**
+
 In the Mantis project, we concentrated on extensive interaction with various components, including API (REST and SOAP), data transmission protocols, databases, and mail servers. 
