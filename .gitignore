@@ -37,3 +37,4 @@ gradle-app.setting
 *.log
 /build/
 /out/
+.idea
